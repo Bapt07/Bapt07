@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+Développeur web qui aime apprendre, et qui attend avec impatience de coder encore et encore ... React⚛️, wordpress, html, css, scss, JS, php, my SQL, git, voilà une partie de mes gadgets pour affronter les défis 💪 💪
+
+Auparavant, j'étais technicien-animateur radio 🎙️, et me suis réorienté dans le monde du web. Passioné de cinéma, la communication, l'image et le son ça me connait ! Plus d'une corde à mon arc🏹
+
+Pour me joindre c'est par ici : <https://www.linkedin.com/in/jean-baptiste-lafont-7b1b97130/>
+
 
 <!--
 **Bapt07/Bapt07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
